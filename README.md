@@ -43,7 +43,7 @@ Acest proiect demonstrează cum poți crea automat resurse în Microsoft Azure f
 ## ▶️ Cum rulezi
 
 ### Metoda 1: Automat
-Fă `push` pe branch-ul `git_tf`.
+Fă `push` pe branch-ul `ping-vms`.
 
 ### Metoda 2: Manual
 Mergi în tab-ul **Actions**, selectează workflow-ul „Terraform Apply and Destroy Workflow” și apasă **Run workflow**.
