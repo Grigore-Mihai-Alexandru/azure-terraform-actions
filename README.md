@@ -8,7 +8,7 @@ Acest proiect demonstrează cum poți crea automat resurse în Microsoft Azure f
 
 ## 🔧 Ce face acest workflow (`terraform-apply.yaml`)
 
-1. Se declanșează automat când faci `push` pe branch-ul `git_tf` sau manual.
+1. Se declanșează automat când faci `push` pe branch-ul `ping-vms` sau manual.
 2. Rulează următoarele comenzi în directorul `terraform/`:
    - `terraform init`
    - `terraform plan`
